@@ -9,3 +9,7 @@
 */
 
 @import url("https://KillYoy.github.io/DiscordNight/DiscordNight.css");
+:root {
+  --Chat-Emoji-Large-Size: 3rem;
+  --Text-Channels-Capital-Letter: none
+}
